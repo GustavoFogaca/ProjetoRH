@@ -11,7 +11,7 @@ Foi dividido nos seguintes microsserviços que podem ser acessados nos links aba
 - Plano de saúde  ->  https://github.com/Andreslvaa/ProjetoPlanoSaude/tree/master  
 
 Alunos
-- André
+- Andre da Silva Rocco
 - Thiago de lima  
 - Gustavo Fogaça
 - Eliane de Queiroz
